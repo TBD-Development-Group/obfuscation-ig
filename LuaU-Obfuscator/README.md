@@ -1,10 +1,10 @@
 # LuaU-Obfuscator
 
-Advanced LuaU code obfuscator with custom VM and opcode interpreter.
+Advanced LuaU obfuscator with custom VM and anti-tamper.
 
 ## Usage
 
+Install dependencies:
+
 ```bash
 npm install
-npm run build
-
